@@ -2,8 +2,8 @@
   {
     "uid": "1e4f312f-d7a5-451e-b00c-583cca9db17e",
     "title": "css篇",
+    "icon":"icon-css",
     "children": [
-      { "uid": "577793d5-ffc5-4229-8da2-f0e0446fc7a8", "title": ".DS_Store" },
       {
         "uid": "6e82dcce-ecbd-4012-88ac-6dcde3dae8a1",
         "title": "01.说说你对CSS盒子模型的理解_.md"
@@ -89,8 +89,8 @@
   {
     "uid": "4587f477-98b3-4047-b5de-af7642a22bb9",
     "title": "es6篇",
+    "icon":"icon-Files-67",
     "children": [
-      { "uid": "0c17b29c-7582-4783-9217-9225b85da426", "title": ".DS_Store" },
       {
         "uid": "94b15742-6eca-44bd-a60c-b04dcab24e66",
         "title": "01.说说var、let、const之间的区别.md"
@@ -132,8 +132,8 @@
   {
     "uid": "cec33591-8664-4124-9edd-e0ebe48435fb",
     "title": "git篇",
+    "icon":"icon-git",
     "children": [
-      { "uid": "a55612c3-c187-4a39-803b-66f2ab9945fb", "title": ".DS_Store" },
       {
         "uid": "1a60d7f0-43d8-4e00-a380-2455d910ee7e",
         "title": "01.说说你对版本管理的理解？常用的版本管理工具有哪些？.md"
@@ -179,8 +179,8 @@
   {
     "uid": "0893db97-5d9a-4356-8fee-9979890350c9",
     "title": "js篇",
+    "icon":"icon-js",
     "children": [
-      { "uid": "c9976e5f-b39b-415d-8a26-aecb638bdf7f", "title": ".DS_Store" },
       {
         "uid": "03a67d3d-dca6-459e-82ef-be1bac834782",
         "title": "01.说说javascript数据类型.md"
@@ -318,8 +318,8 @@
   {
     "uid": "342eaf20-2e7d-45f3-a7a4-89792c5a074c",
     "title": "linux篇",
+    "icon":"icon-linux",
     "children": [
-      { "uid": "e71f807d-a37c-4624-8a28-699d1858a0c4", "title": ".DS_Store" },
       {
         "uid": "149c2972-6139-41e7-a04f-7daa59aca6a6",
         "title": "01.说说你对操作系统的理解？核心概念有哪些？.md"
@@ -353,8 +353,8 @@
   {
     "uid": "e2c3a44b-cf63-479e-a5eb-8035e81a1ed8",
     "title": "node篇",
+    "icon":"icon-Files-67",
     "children": [
-      { "uid": "43549a4b-11a9-4512-9a60-7402c32f63a3", "title": ".DS_Store" },
       {
         "uid": "f2975b6b-da93-48e9-b3fb-96b9289fcd1a",
         "title": "01.说说你对Node.js 的理解？优缺点？应用场景？.md"
@@ -416,8 +416,8 @@
   {
     "uid": "d0eeef5b-f955-469f-a004-6a08a18bfc71",
     "title": "react篇",
+    "icon":"icon-React",
     "children": [
-      { "uid": "b41af0be-d62a-4f17-a41c-acbdb85c082f", "title": ".DS_Store" },
       {
         "uid": "dd6ba59b-1ee0-46ff-8252-810be77664ba",
         "title": "01.说说对React的理解？有哪些特性？.md"
@@ -552,12 +552,12 @@
       }
     ]
   },
-  { "uid": "fe820e52-9f82-472d-92e3-b8b8cc2af9ef", "title": "readme.md" },
+  { "uid": "fe820e52-9f82-472d-92e3-b8b8cc2af9ef", "title": "readme.md" ,"icon":"icon-md"},
   {
     "uid": "d2558d31-b455-432e-9971-ad550e1cffcd",
     "title": "typescript篇",
+    "icon":"icon-typescript",
     "children": [
-      { "uid": "e072f451-6350-452d-9e39-6ac39e16ce5b", "title": ".DS_Store" },
       {
         "uid": "15ec4691-05c7-494b-a7f9-92dd5aa4e7ce",
         "title": "01.说说你对 TypeScript 的理解？与 JavaScript 的区别？.md"
@@ -611,8 +611,8 @@
   {
     "uid": "c5f937ec-b1b3-4d20-8179-c4e8b1e54e1e",
     "title": "vue篇",
+    "icon":"icon-Vue",
     "children": [
-      { "uid": "a9529798-cd27-48d0-bfb1-fcacd33188ea", "title": ".DS_Store" },
       {
         "uid": "53d2a595-563d-418a-b535-99aed403d17e",
         "title": "01.说说你对vue的理解_.md"
@@ -770,8 +770,8 @@
   {
     "uid": "ad94da81-ac17-4203-b6b9-64baefe51f05",
     "title": "打包篇",
+    "icon":"icon-dabao",
     "children": [
-      { "uid": "6a05879a-251a-480e-ae7e-79a35a71a4ca", "title": ".DS_Store" },
       {
         "uid": "5590010d-9ccc-47ff-a837-e2dbe0113ddb",
         "title": "01.说说你对Webpack的理解？解决了什么问题？.md"
@@ -817,8 +817,8 @@
   {
     "uid": "976878f8-af30-47e3-959e-32bd14d8fa01",
     "title": "数据结构和算法篇",
+    "icon":"icon-suanfamoxing",
     "children": [
-      { "uid": "f52c5037-ec11-49e6-8596-ef99131d82e8", "title": ".DS_Store" },
       {
         "uid": "fec5e152-ad07-4553-8a34-4a5127ad9537",
         "title": "01.说说你对算法的理解？应用场景？.md"
@@ -860,8 +860,8 @@
   {
     "uid": "1731da0f-42fe-4755-9b83-e5d88af34a1e",
     "title": "网络协议篇",
+    "icon":"icon-wangluo",
     "children": [
-      { "uid": "c101b359-40ae-429b-b512-fee4ef1f5355", "title": ".DS_Store" },
       {
         "uid": "80d80077-3395-448d-aa0b-67900d146e39",
         "title": "01.什么是HTTP_ HTTP 和 HTTPS 的区别_.md"
@@ -927,6 +927,7 @@
   {
     "uid": "d51bc757-83ca-4d5f-8062-77690e63d4f0",
     "title": "设计模式篇",
+    "icon":"icon-shejiguifan",
     "children": [
       {
         "uid": "8fab6d9b-8370-423e-9fd7-854fd69bd3c7",
